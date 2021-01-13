@@ -1,0 +1,30 @@
+E:\Информационная система публикаций\Publikaciy\Publikaciy\bin\Debug\Publikaciy.exe.config
+E:\Информационная система публикаций\Publikaciy\Publikaciy\bin\Debug\Publikaciy.exe
+E:\Информационная система публикаций\Publikaciy\Publikaciy\bin\Debug\Publikaciy.pdb
+E:\Информационная система публикаций\Publikaciy\Publikaciy\obj\Debug\Publikaciy.csprojAssemblyReference.cache
+E:\Информационная система публикаций\Publikaciy\Publikaciy\obj\Debug\Publikaciy.Form1.resources
+E:\Информационная система публикаций\Publikaciy\Publikaciy\obj\Debug\Publikaciy.Properties.Resources.resources
+E:\Информационная система публикаций\Publikaciy\Publikaciy\obj\Debug\Publikaciy.csproj.GenerateResource.cache
+E:\Информационная система публикаций\Publikaciy\Publikaciy\obj\Debug\Publikaciy.csproj.CoreCompileInputs.cache
+E:\Информационная система публикаций\Publikaciy\Publikaciy\obj\Debug\Publikaciy.exe
+E:\Информационная система публикаций\Publikaciy\Publikaciy\obj\Debug\Publikaciy.pdb
+E:\Информационная система публикаций\Publikaciy\Publikaciy\obj\Debug\Publikaciy.Form2.resources
+E:\Информационная система публикаций\Publikaciy\Publikaciy\obj\Debug\Publikaciy.Form3.resources
+E:\Информационная система публикаций\Publikaciy\Publikaciy\obj\Debug\Publikaciy.Form4.resources
+E:\Информационная система публикаций\Publikaciy\Publikaciy\obj\Debug\Publikaciy.Form5.resources
+E:\Информационная система публикаций\Publikaciy\Publikaciy\obj\Debug\Publikaciy.Form6.resources
+d:\учеба\проект с формами\проект с формами\Publikaciy\Publikaciy\bin\Debug\Publikaciy.exe.config
+d:\учеба\проект с формами\проект с формами\Publikaciy\Publikaciy\bin\Debug\Publikaciy.exe
+d:\учеба\проект с формами\проект с формами\Publikaciy\Publikaciy\bin\Debug\Publikaciy.pdb
+d:\учеба\проект с формами\проект с формами\Publikaciy\Publikaciy\obj\Debug\Publikaciy.csprojAssemblyReference.cache
+d:\учеба\проект с формами\проект с формами\Publikaciy\Publikaciy\obj\Debug\Publikaciy.Form1.resources
+d:\учеба\проект с формами\проект с формами\Publikaciy\Publikaciy\obj\Debug\Publikaciy.Form2.resources
+d:\учеба\проект с формами\проект с формами\Publikaciy\Publikaciy\obj\Debug\Publikaciy.Form3.resources
+d:\учеба\проект с формами\проект с формами\Publikaciy\Publikaciy\obj\Debug\Publikaciy.Form4.resources
+d:\учеба\проект с формами\проект с формами\Publikaciy\Publikaciy\obj\Debug\Publikaciy.Form5.resources
+d:\учеба\проект с формами\проект с формами\Publikaciy\Publikaciy\obj\Debug\Publikaciy.Form6.resources
+d:\учеба\проект с формами\проект с формами\Publikaciy\Publikaciy\obj\Debug\Publikaciy.Properties.Resources.resources
+d:\учеба\проект с формами\проект с формами\Publikaciy\Publikaciy\obj\Debug\Publikaciy.csproj.GenerateResource.cache
+d:\учеба\проект с формами\проект с формами\Publikaciy\Publikaciy\obj\Debug\Publikaciy.csproj.CoreCompileInputs.cache
+d:\учеба\проект с формами\проект с формами\Publikaciy\Publikaciy\obj\Debug\Publikaciy.exe
+d:\учеба\проект с формами\проект с формами\Publikaciy\Publikaciy\obj\Debug\Publikaciy.pdb
